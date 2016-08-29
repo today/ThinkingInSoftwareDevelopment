@@ -3,7 +3,7 @@
 
 我大致总结了一些和具体的语言、操作系统和运行环境无关的知识点列在下面。应该不全面，所以在这里请大家帮忙补全。 如果有很好的讲解文章，也请推荐出来，我会补充进去。
 
-github: https://github.com/today/ThinkingInSoftwareDevelop
+github: https://github.com/today/ThinkingInSoftwareDevelopment
 
 Google Drive: https://docs.google.com/document/d/1PQkWP0Nqeng8oohwklD_9nVfMrN_P1bmTtiLh9pZXDg 
 
